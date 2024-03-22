@@ -7,7 +7,7 @@
 <a href="https://www.twitter.com/_naputami"/><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="nadiapujiutami@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-## Things I code with 👩‍💻
+<!--## Things I code with 👩‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naputami&layout=compact)
-
+-->
 
 <!---
 naputami/naputami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
